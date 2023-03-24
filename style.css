@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    background-color: aquamarine;
+    height: 100vh;
+    text-transform: capitalize;
+}
+input{
+    width: 500px;
+    padding: 10px;
+}
